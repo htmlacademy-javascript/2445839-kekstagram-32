@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм»
 
+* Наставник: `Виктория Никитина`(https://htmlacademy.ru/profile/id1217273).
+* Наставник: `kekstagram`(https://kristinatarantsova.github.io/2445839-kekstagram-32/).
 * Студент: [Кристина Т](https://up.htmlacademy.ru/javascript/32/user/2445839).
-* Наставник: `Неизвестно`.
 
 ---
 
