@@ -24,7 +24,6 @@ const checksPalindromeString = (string) => {
 
 checksPalindromeString('топот');
 
-console.log('Кекс', checksPalindromeString('Кекс'));
 console.log('топот', checksPalindromeString('топот'));
 console.log('ДовОд', checksPalindromeString('ДовОд'));
-
+console.log('Кекс', checksPalindromeString('Кекс'));
