@@ -1,4 +1,3 @@
-
 import {getRandomArrayElement, getRandomUniqueInteger} from './util.js';
 
 const USER_ID = 25;
@@ -45,7 +44,6 @@ const DESCRIPTION = [
   ' солнце наполняет все вокруг светом.',
   'Вероятно, это был чудесный день, и я хотела бы хоть на минутку оказаться в нем.',
 ];
-
 
 //  создание объекта
 
