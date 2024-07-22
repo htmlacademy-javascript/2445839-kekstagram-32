@@ -83,4 +83,4 @@ const createNewUser = () => {
 // создание массива
 const similarWizards = () => Array.from({length: USER_ID}, createNewUser);
 
-similarWizards();
+console.log(similarWizards());
